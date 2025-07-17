@@ -1,3 +1,4 @@
-# Human-Machine Teaming in Space
+# HMT-In-Space
 
-Our goal is to explore requirements and build collaborations to grow a new Space economy, that will involve human-machine parternships, for ensuring human performance to accelerate our ability in creating a sustained government and industry presence in space, including the Moon and Mars.
+Organization profile, see [README](./profile/README.md) in `profile` folder.
+
